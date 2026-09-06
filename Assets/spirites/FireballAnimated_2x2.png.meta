@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 5a36f6edd76ca2449a9303a0125474ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1362694780864935812
+    second: FireballAnimated_2x2_0
+  - first:
+      213: 4356290147685181189
+    second: FireballAnimated_2x2_1
+  - first:
+      213: 7786720848816627802
+    second: FireballAnimated_2x2_2
+  - first:
+      213: 7784665917939294008
+    second: FireballAnimated_2x2_3
+  - first:
+      213: 8347138176309278066
+    second: FireballAnimated_2x2_4
+  - first:
+      213: 8177779038881429856
+    second: FireballAnimated_2x2_5
+  - first:
+      213: 4474196842674016017
+    second: FireballAnimated_2x2_6
+  - first:
+      213: 2237777245014734682
+    second: FireballAnimated_2x2_7
+  - first:
+      213: -7157354451619719267
+    second: FireballAnimated_2x2_8
+  - first:
+      213: 6192663310871258959
+    second: FireballAnimated_2x2_9
+  - first:
+      213: 8793286551471581276
+    second: FireballAnimated_2x2_10
+  - first:
+      213: -5326556369929920364
+    second: FireballAnimated_2x2_11
+  - first:
+      213: 5191716794526646729
+    second: FireballAnimated_2x2_12
+  - first:
+      213: -2263853172868348407
+    second: FireballAnimated_2x2_13
+  - first:
+      213: 1719333876507410128
+    second: FireballAnimated_2x2_14
+  - first:
+      213: -1397247932440290255
+    second: FireballAnimated_2x2_15
+  - first:
+      213: 1916508462058542952
+    second: FireballAnimated_2x2_16
+  - first:
+      213: 5927997910514427410
+    second: FireballAnimated_2x2_17
+  - first:
+      213: -8349673780501623539
+    second: FireballAnimated_2x2_18
+  - first:
+      213: 7470245086527525723
+    second: FireballAnimated_2x2_19
+  - first:
+      213: -7913467721386251757
+    second: FireballAnimated_2x2_20
+  - first:
+      213: 5540437291039930671
+    second: FireballAnimated_2x2_21
+  - first:
+      213: 8199213924634389683
+    second: FireballAnimated_2x2_22
+  - first:
+      213: -1700932605927774695
+    second: FireballAnimated_2x2_23
+  - first:
+      213: -4734637161980314993
+    second: FireballAnimated_2x2_24
+  - first:
+      213: 3446688490593174724
+    second: FireballAnimated_2x2_25
+  - first:
+      213: -7494609469612588759
+    second: FireballAnimated_2x2_26
+  - first:
+      213: -6501378309306931570
+    second: FireballAnimated_2x2_27
+  - first:
+      213: -3344654172897339333
+    second: FireballAnimated_2x2_28
+  - first:
+      213: -5056277819887141039
+    second: FireballAnimated_2x2_29
+  - first:
+      213: -583310786258618373
+    second: FireballAnimated_2x2_30
+  - first:
+      213: 1507762993290837900
+    second: FireballAnimated_2x2_31
+  - first:
+      213: 4395723701215650568
+    second: FireballAnimated_2x2_32
+  - first:
+      213: -6035395534358603126
+    second: FireballAnimated_2x2_33
+  - first:
+      213: -3636630959892035387
+    second: FireballAnimated_2x2_34
+  - first:
+      213: 8288484274143896169
+    second: FireballAnimated_2x2_35
+  - first:
+      213: -3784937297180496325
+    second: FireballAnimated_2x2_36
+  - first:
+      213: -4868690618860553052
+    second: FireballAnimated_2x2_37
+  - first:
+      213: 5064204395506921918
+    second: FireballAnimated_2x2_38
+  - first:
+      213: -500833802850831556
+    second: FireballAnimated_2x2_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireballAnimated_2x2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 627
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487bbbeeea349e210800000000000000
+      internalID: 1362694780864935812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballAnimated_2x2_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 627
+        width: 627
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5072f470fc6a47c30800000000000000
+      internalID: 4356290147685181189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballAnimated_2x2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 627
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50e7de2b5dff0c60800000000000000
+      internalID: 7786720848816627802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballAnimated_2x2_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 627
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f9cdd4860b80c60800000000000000
+      internalID: 7784665917939294008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":2.0},"gridSpriteSize":{"x":627.0,"y":627.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FireballAnimated_2x2_0: 1362694780864935812
+      FireballAnimated_2x2_1: 4356290147685181189
+      FireballAnimated_2x2_2: 7786720848816627802
+      FireballAnimated_2x2_3: 7784665917939294008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

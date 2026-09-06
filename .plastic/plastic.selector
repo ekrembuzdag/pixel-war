@@ -1,0 +1,4 @@
+repository "pixel war/pixel war@18968492975433@cloud"
+  path "/"
+    br "/main"
+    co "/main"
