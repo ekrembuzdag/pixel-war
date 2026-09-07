@@ -5,7 +5,9 @@ using UnityEngine.InputSystem;
 public class PlayerAttack : MonoBehaviour
 {
     public GameObject fireballPrefab;
+    public Transform firePoint;
     public float spawnDistance = 0.8f;
+    public float spawnHeight = 1.5f;
     public float attackCooldown = 0.3f;
 
     private float facingDirection = 1f;
@@ -31,7 +33,7 @@ public class PlayerAttack : MonoBehaviour
             Time.time >= nextAttackTime)
         {
             Animator animator = transform.Find("ignisvisual").GetComponent<Animator>();
-            animator.Play("ignis_attack", 0, 0f);
+            animator.SetTrigger("attack");
             Invoke(nameof(Shoot), 0.42f);
         }
     }
@@ -42,8 +44,7 @@ public class PlayerAttack : MonoBehaviour
 
         Vector3 facingDirection =
             ignisVisual.localScale.x < 0 ? Vector3.left : Vector3.right;
-
-        Vector3 spawnPosition = transform.position + facingDirection * spawnDistance;
+        Vector3 spawnPosition = firePoint.position;
         GameObject newFireball = Instantiate(
             fireballPrefab,
             spawnPosition,
